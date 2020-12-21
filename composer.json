@@ -23,7 +23,7 @@
         "docs": "https://tenancy.dev"
     },
     "require": {
-        "php": "^7.3",
+        "php": ">=7.3",
         "phpseclib/phpseclib": "~2.0",
         "doctrine/dbal": "~2.5",
         "ramsey/uuid": "^4.0",
